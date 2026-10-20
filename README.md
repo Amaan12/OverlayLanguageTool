@@ -120,8 +120,3 @@ To run the automated test suite:
 ```bash
 python -m unittest discover -s tests -p "test_*.py"
 ```
-
----
-
-## 📄 License
-MIT License. Free to use, modify, and distribute.
