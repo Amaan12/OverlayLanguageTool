@@ -1,0 +1,17 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local runtime databases & cache
+data/*.db
+*.db
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE / Editor configuration
+.vscode/
+.idea/
